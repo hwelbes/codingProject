@@ -1,4 +1,4 @@
-# Fieldnotes
+# Contact App
 
 A small browser-based contact app built with Python, Flask, and SQLite. Save first and last names, email, phone, city, and state; search saved contacts and remove entries you no longer need. The database is created automatically in the `instance` folder.
 
