@@ -46,11 +46,11 @@ When an older database with full-name, category, date, and notes fields is detec
 ## Project layout
 
 ```text
-app.py                 Flask routes, validation, SQLite access, and migration
-templates/index.html   Contact form and directory page
-static/styles.css      Responsive page styling
-requirements.txt       Python package dependencies
-instance/entries.sqlite Local contact database, created at runtime
+app.py                      Flask routes, validation, SQLite access, and migration
+templates/index.html        Contact form and directory page
+static/styles.css           Responsive page styling
+requirements.txt            Python package dependencies
+instance/entries.sqlite     Local contact database, created at runtime
 ```
 
 ## Development note
